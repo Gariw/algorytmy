@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1443463251 source:e:\informatyka\programowanie\projekt_c++\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<stack>
+	<queue>
+	<list>
+	<cstdlib>
+
+1443463251 source:e:\informatyka\programowanie\c++\projekt_c++\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<stack>
+	<queue>
+	<list>
+	<cstdlib>
+
+1443459651 source:d:\informatyka\programowanie\c++\projekt_c++\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<stack>
+	<queue>
+	<list>
+	<cstdlib>
+
